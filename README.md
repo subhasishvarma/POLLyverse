@@ -1,4 +1,4 @@
-# Poll Application
+# POLLyverse
 
 A full-stack polling application built with Flask and React.
 
